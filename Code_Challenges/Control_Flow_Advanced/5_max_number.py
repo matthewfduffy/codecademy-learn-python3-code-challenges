@@ -14,7 +14,7 @@ def max_num(num1, num2, num3):
         if num3 > current_max:
             return num3
 # TODO 
-Revisit and clean solution
+# Revisit and clean solution
 
 # Option 2:
 # def max_num(num1, num2, num3):
