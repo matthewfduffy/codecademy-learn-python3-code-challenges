@@ -4,6 +4,8 @@ Python code challenges and solutions from Codecademy's Intro to Python 3 course.
 1. Large Power
 2. Over Budget
 3. Twice as Large
+4. Divisible by Ten
+5. Not Sum to Ten
 ### ![Functions](https://www.codecademy.com/courses/learn-python-3/articles/python-code-challenges-functions)
 1. Tenth Power
 2. Square Root

@@ -20,3 +20,19 @@ def twice_as_large(num1, num2):
     return True
   else:
     return False
+
+
+# 4. Divisible by Ten
+def divisible_by_ten(num):
+  if (num % 10 == 0):
+    return True
+  else:
+    return False
+
+
+# 5. Not Sum to Ten
+def not_sum_to_ten(num1, num2):
+  if (num1 + num2 != 10):
+    return True
+  else:
+    return False
