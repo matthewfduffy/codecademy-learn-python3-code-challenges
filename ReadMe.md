@@ -33,6 +33,13 @@ Python code challenges and solutions from Codecademy's Intro to Python 3 course.
 3. Larger List
 4. More Than N
 5. Combine Sort
+
+### ![Lists Advanced](https://www.codecademy.com/courses/learn-python-3/articles/advanced-python-code-challenges-lists)
+1. Every Three Numbers
+2. Remove Middle
+3. More Frequent Item
+4. Double Index
+5. Middle Item
 ### ![Loops](https://www.codecademy.com/courses/learn-python-3/articles/python-code-challenges-loops)
 1. Divisible by 10
 2. Greetings
