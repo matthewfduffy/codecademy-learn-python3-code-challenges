@@ -1,0 +1,2 @@
+#  4. Overriding Dunder Methods
+# Within the Robot class, override the + and - operations to increase or decrease the speed of the robot. For the DriveBot class, the + and - operations should also increase and decrease the sensor_range of the robot. For the WalkBot class, those operations should increase or decrease the step_length by half of the amount added. This will change the distance that the robot travels per step based on the change in speed from the operations.

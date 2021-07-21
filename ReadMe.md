@@ -7,8 +7,14 @@ Python code challenges and solutions from Codecademy's Intro to Python 3 course.
 4. Controlling them All
 5. Identifying Robots
 
-### ![Classes Advanced]()
-1.
+### ![Classes Advanced](https://www.codecademy.com/courses/learn-python-3/articles/advanced-python-code-challenges-classes)
+1. Robot Inheritance
+2. Using the Superclass
+3. Conditional Superclass Logic
+4. Overriding Dunder Methods
+5. Prevent a Robot Takeover
+
+
 ### ![Control Flow](https://www.codecademy.com/courses/learn-python-3/articles/python-code-challenges-control-flow)
 1. Large Power
 2. Over Budget

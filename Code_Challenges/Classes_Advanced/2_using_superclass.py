@@ -1,0 +1,2 @@
+# 2. Using the Superclass
+# Within the WalkBot class, override the adjust_sensor method to set the obstacle_count instance variable to False and set the step_length to 5 in addition to the the original logic from the superclass.
