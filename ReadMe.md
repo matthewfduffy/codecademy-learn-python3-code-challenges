@@ -13,7 +13,20 @@ Python code challenges and solutions from Codecademy's Intro to Python 3 course.
 3. Always False
 4. Movie Review
 5. Max Number
+
+
+### ![Dictionaries](https://www.codecademy.com/courses/learn-python-3/articles/python-code-challenges-dictionaries)
+1. Sum Values
+2. Even Keys
+3. Add Ten
+4. Values that are keys
+5. Largest Value
    
+### ![Dictionaries Advanced](https://www.codecademy.com/courses/learn-python-3/articles/advanced-python-code-challenges-dictionaries)
+1. Word Length Dict
+2. Frequency Count
+3. Unique Values
+4. Count First Letter
 ### ![Functions](https://www.codecademy.com/courses/learn-python-3/articles/python-code-challenges-functions)
 1. Tenth Power
 2. Square Root
@@ -55,8 +68,6 @@ Python code challenges and solutions from Codecademy's Intro to Python 3 course.
 3. Max Num
 4. Same Vales
 5. Reversed List
-
-
 
 ### ![Strings](https://www.codecademy.com/courses/learn-python-3/articles/python-code-challenges-strings)
 1. Count Letters
