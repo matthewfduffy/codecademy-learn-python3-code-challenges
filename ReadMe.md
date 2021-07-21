@@ -1,5 +1,14 @@
 Python code challenges and solutions from Codecademy's Intro to Python 3 course.
 
+### ![Classes](https://www.codecademy.com/courses/learn-python-3/articles/python-code-challenges-classes)
+1. Setting up Robot
+2. Adding Robot Logic
+3. Enhanced Constructor
+4. Controlling them All
+5. Identifying Robots
+
+### ![Classes Advanced]()
+1.
 ### ![Control Flow](https://www.codecademy.com/courses/learn-python-3/articles/python-code-challenges-control-flow)
 1. Large Power
 2. Over Budget
