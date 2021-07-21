@@ -40,6 +40,7 @@ Python code challenges and solutions from Codecademy's Intro to Python 3 course.
 3. More Frequent Item
 4. Double Index
 5. Middle Item
+
 ### ![Loops](https://www.codecademy.com/courses/learn-python-3/articles/python-code-challenges-loops)
 1. Divisible by 10
 2. Greetings
@@ -47,9 +48,26 @@ Python code challenges and solutions from Codecademy's Intro to Python 3 course.
 4. Odd Indices
 5. Exponents
 
+   
 ### ![Loops Advanced](https://www.codecademy.com/courses/learn-python-3/articles/advanced-python-code-challenges-loops)
 1. Larger Sum
 2. Over 9000
 3. Max Num
 4. Same Vales
 5. Reversed List
+
+
+
+### ![Strings](https://www.codecademy.com/courses/learn-python-3/articles/python-code-challenges-strings)
+1. Count Letters
+2. Count X
+3. Count Multi X
+4. Substring Between
+5. X Length
+   
+### ![Strings Advanced](https://www.codecademy.com/courses/learn-python-3/articles/advanced-python-code-challenges-strings)
+1. Check Name
+2. Every Other Letter
+3. Reverse
+4. Make Spoonerism
+5. Add Exclamation
